@@ -1,2 +1,2 @@
 # PwaDeveloper
-https://lab-pwa.github.io/PwaDeveloper/
+https://pwadeveloper.netlify.app/
