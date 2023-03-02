@@ -7,7 +7,6 @@
     "background_color": "#212529",
     "display": "standalone",
     "id": "./?utm_source=Installed%20App&utm_medium=Shortcut",
-    "scope": "./",
     "start_url": "/?utm_source=Installed%20App&utm_medium=Shortcut",
     "dir": "auto",
     "display_override": [
